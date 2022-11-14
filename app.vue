@@ -12,7 +12,7 @@ useHead({
     },
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&family=Zen+Kaku+Gothic+New:wght@300;400;700&display=swap",
+      href: "https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&family=Zen+Kaku+Gothic+New:wght@300;400;500;600;700&display=swap",
       crossorigin: "",
     },
   ],
