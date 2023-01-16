@@ -11,10 +11,10 @@
     "nuxt": "3.0.0-rc.13"
   },
   "dependencies": {
-    "ress": "^5.0.2",
+    "dayjs": "^1.11.6",
     "fibers": "^5.0.3",
+    "ress": "^5.0.2",
     "sass": "^1.55.0",
-    "sass-loader": "^13.1.0",
-    "dayjs": "^1.11.6"
+    "sass-loader": "^13.1.0"
   }
 }
